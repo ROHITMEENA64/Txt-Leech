@@ -27,9 +27,9 @@ import re
 import os
 import io
 
-API_ID = 22170620
-API_HASH = "8c15defa8633511dd14b19b5770cb9e8"
-BOT_TOKEN = "7146439451:AAHWUl57EYfvc1GpSuSjoiohxl15JW2zxtY"
+API_ID = 27775431
+API_HASH = "b70bb1d45a1d05236671d4cc615e40f9"
+BOT_TOKEN = ""
 bot = Client(
     "bot",
     bot_token=BOT_TOKEN,
